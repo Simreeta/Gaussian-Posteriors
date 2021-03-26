@@ -1,7 +1,7 @@
 # Gaussian-Posteriors
 References : 
-https://www.cs.toronto.edu/~duvenaud/cookbook/
-http://www.gaussianprocess.org/gpml/chapters/RW.pdf
+// https://www.cs.toronto.edu/~duvenaud/cookbook/
+// http://www.gaussianprocess.org/gpml/chapters/RW.pdf
 https://scikit-learn.org/stable/modules/gaussian_process.html
 https://sml-group.cc/blog/2020-gp-sampling/
 https://github.com/j-wilson/GPflowSampling
